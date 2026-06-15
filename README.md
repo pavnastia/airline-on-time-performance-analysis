@@ -34,7 +34,7 @@ Detailed project documentation is available in Notion in two languages:
 
 ### 1. Dataset Structure
 
-I reviewed the table structure, column names, data types, and the meaning of each field.
+I started by reviewing the table structure and checking the data types of all columns. The dataset includes flight date, airline information, departure and arrival airports, states, airport coordinates, scheduled and actual times, and delay metrics.
 
 ### 2. Categorical Value Analysis
 
