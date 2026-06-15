@@ -8,6 +8,13 @@ The dataset contains 70,588,485 flight records and includes information about fl
 
 The main goal of this project is to practice SQL and BigQuery skills while exploring flight delay patterns, data quality, time-based trends, and key categorical dimensions such as airlines, airports, routes, and years.
 
+## Documentation
+
+Detailed project documentation is available in Notion in two languages:
+
+- [Documentation in Ukrainian](https://app.notion.com/p/Airline-On-Time-Performance-Analysis-UA-361fe3d5200480509b01f8a9c52341cc?source=copy_link)
+- [Documentation in English](https://app.notion.com/p/Airline-On-Time-Performance-Analysis-ENG-380fe3d520048051a112c246a4b52363?source=copy_link)
+
 ## Tools Used
 
 - Google BigQuery
