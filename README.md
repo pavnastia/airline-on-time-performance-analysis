@@ -4,7 +4,7 @@
 
 This project analyzes airline on-time performance using a public BigQuery dataset: `bigquery-samples.airline_ontime_data.flights`.
 
-The dataset contains 70,588,485 flight records and includes information about flight dates, airlines, departure and arrival airports, U.S. states, airport coordinates, scheduled and actual departure/arrival times, and flight delays measured in minutes.
+The dataset contains 70 588 485 flight records and includes information about flight dates, airlines, departure and arrival airports, U.S. states, airport coordinates, scheduled and actual departure/arrival times, and flight delays measured in minutes.
 
 The main goal of this project is to practice SQL and BigQuery skills while exploring flight delay patterns, data quality, time-based trends, and key categorical dimensions such as airlines, airports, routes, and years.
 
@@ -26,7 +26,7 @@ Detailed project documentation is available in Notion in two languages:
 
 - Source: Google BigQuery public dataset
 - Table: `bigquery-samples.airline_ontime_data.flights`
-- Total records: 70,588,485
+- Total records: 70 588 485
 - Date range: 2002-01-01 to 2012-12-31
 - Unique airlines: 24
 
