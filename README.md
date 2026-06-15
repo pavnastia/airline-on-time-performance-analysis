@@ -46,6 +46,7 @@ Key findings:
 - There are 347 unique departure airports and 344 unique arrival airports.
 - The most active airline by number of flights is WN.
 - The most active airports include ATL, ORD, DFW, LAX, and DEN.
+- Popular routes include LAX → SAN, SAN → LAX, LAX → LAS, and LAS → LAX.
 
 ### 3. Data Quality Check
 
