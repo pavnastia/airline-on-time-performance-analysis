@@ -30,6 +30,26 @@ Detailed project documentation is available in Notion in two languages:
 - Date range: 2002-01-01 to 2012-12-31
 - Unique airlines: 24
 
+## Dataset Columns
+
+- **`date`** — flight date
+- **`airline`** — airline code
+- **`airline_code`** — numeric airline identifier
+- **`departure_airport`** — departure airport code
+- **`departure_state`** — U.S. state where the departure airport is located
+- **`departure_lat`** — latitude of the departure airport
+- **`departure_lon`** — longitude of the departure airport
+- **`arrival_airport`** — arrival airport code
+- **`arrival_state`** — U.S. state where the arrival airport is located
+- **`arrival_lat`** — latitude of the arrival airport
+- **`arrival_lon`** — longitude of the arrival airport
+- **`departure_schedule`** — scheduled departure time in `HHMM` format
+- **`departure_actual`** — actual departure time in `HHMM` format
+- **`departure_delay`** — departure delay in minutes
+- **`arrival_schedule`** — scheduled arrival time in `HHMM` format
+- **`arrival_actual`** — actual arrival time in `HHMM` format
+- **`arrival_delay`** — arrival delay in minutes
+
 ## Analysis Steps
 
 ### 1. Dataset Structure
