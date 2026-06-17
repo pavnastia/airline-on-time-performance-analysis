@@ -30,7 +30,7 @@ Detailed project documentation is available in Notion in two languages:
 - Date range: 2002-01-01 to 2012-12-31
 - Unique airlines: 24
 
-## Dataset Columns
+## Dataset Description
 
 - **`date`** — flight date
 - **`airline`** — airline code
