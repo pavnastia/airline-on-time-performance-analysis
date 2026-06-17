@@ -19,7 +19,6 @@ Detailed project documentation is available in Notion in two languages:
 
 - Google BigQuery
 - SQL
-- GitHub
 - Notion
 
 ## Dataset
